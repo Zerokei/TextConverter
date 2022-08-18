@@ -21,3 +21,10 @@ For the MkDocs admonition, the syntax is
 
 ### 2. Erase tags
 In obsidian, you may add several tags, but in MkDocs, they are not rendered.
+
+## Usage
+
+```bash
+$ git clone git@github.com:Zerokei/TextConverter.git
+$ python3 src/main.py target_path # the target path stores the markdown files
+```
