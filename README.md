@@ -22,6 +22,9 @@ For the MkDocs admonition, the syntax is
 ### 2. Erase tags
 In obsidian, you may add several tags, but in MkDocs, they are not rendered.
 
+### 3. Resort footnotes
+In MkDocs, the footnotes are ordered in the same order as at the end of the markdown file, and for aesthetic purposes should be ordered according to the order in which they appear in the text.
+
 ## Usage
 
 ```bash
